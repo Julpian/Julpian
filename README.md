@@ -6,11 +6,6 @@
 </h1>
 
 <h3 align="center">🚀 Passionate Data Scientist | Lifelong Learner | Innovator from Indonesia</h3>
-<h3>As a data enthusiast and enthusiast, I believe that every number has a story, and my job is to unearth its meaning. With expertise in data analysis and data science, I transform data into valuable insights to support decision-making.
-
-I have always been fascinated by how data can solve complex problems and provide innovative solutions. From exploring patterns to building predictive models, I continue to hone my skills in data processing, creating informative visualizations, and developing machine learning models.
-
-I believe that learning is a never-ending journey, and I am constantly exploring new technologies to keep growing. Let’s create real impact through data!</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=lutfijulpian&label=Profile%20views&color=blue&style=plastic" alt="lutfijulpian" /> 
