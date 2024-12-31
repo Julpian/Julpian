@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Lutfi Julpian</h1>
-<h3 align="center">🚀 Passionate Data Scientist | Lifelong Learner | Innovator from Indonesia</h3>
+<h1 align="center">
+  <img src="https://i.pinimg.com/736x/3a/37/5e/3a375ebc0fb5e745318f5c82cbafb6b5.jpg" alt="Lutfi Julpian" />
+  Hi 👋, I'm Lutfi Julpian
+</h1>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=lutfijulpian&label=Profile%20views&color=blue&style=plastic" alt="lutfijulpian" /> 
