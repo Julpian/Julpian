@@ -34,7 +34,7 @@
 ---
 
 <h3 align="center" style="font-family: Arial, sans-serif; color: #333;">🛠️ Tech Stack:</h3>
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin: 20px 0;">
   <a href="https://www.python.org" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="transition: transform 0.3s;"/>
   </a>
