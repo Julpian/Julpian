@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="[https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif](https://i.pinimg.com/originals/79/dc/c4/79dcc47ea8d1563d2869647014cb86fe.gif)" alt="Lutfi Julpian" style="margin-bottom: 20px;" />
+  <img src="(https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif)" alt="Lutfi Julpian" style="margin-bottom: 20px;" />
 </h1>
 <h1 align="center"> 
   Hi 👋, I'm Lutfi Julpian
