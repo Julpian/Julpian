@@ -14,7 +14,8 @@
 - 🌱 **Currently Exploring:** Deep Learning & Kotlin  
 - 🤝 **Collaborating with:** [Maetala Scientist](#)  
 - 💬 **Ask Me About:** Machine Learning & Data Science  
-- 📫 **Reach Me At:** lutfijulpian@gmail.com  
+- 📫 **Reach Me At:** lutfijulpian@gmail.com
+- 🐸 **My Portfolio:** https://lutfijulpian.netlify.app/
 
 ---
 
