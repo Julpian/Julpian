@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://i.pinimg.com/originals/79/dc/c4/79dcc47ea8d1563d2869647014cb86fe.gif](https://raw.githubusercontent.com/Julpian/Julpian/refs/heads/main/unduhan.gif)" alt="Lutfi Julpian" style="margin-bottom: 20px;" />
+  <img src="(https://raw.githubusercontent.com/Julpian/Julpian/refs/heads/main/unduhan.gif)" alt="Lutfi Julpian" style="margin-bottom: 20px;" />
 </div>
 
 <h1 align="center">
