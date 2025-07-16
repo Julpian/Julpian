@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/c7/08/99/c708996163e7939a3f50165b6f3b414f.gif" alt="Iron Man HUD" width="600"/>
+  <img src="https://i.pinimg.com/originals/79/dc/c4/79dcc47ea8d1563d2869647014cb86fe.gif" alt="Lutfi Julpian" style="margin-bottom: 20px;" />
 </div>
 
 <h1 align="center">
