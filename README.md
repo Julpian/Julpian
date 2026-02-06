@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Julpian/Julpian/main/unduhan.gif" width="300"/>
+<img src="https://raw.githubusercontent.com/lutfijulpian/assets/main/data-banner.png" width="100%"/>
+
 
 # 👨‍💻 Lutfi Julpian  
 ### Data Scientist • ML Engineer • Fullstack Explorer  
