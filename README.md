@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://raw.githubusercontent.com/Julpian/Julpian/main/unduhan.gif](https://i.pinimg.com/1200x/de/ca/df/decadf4824f3a693404989e0cd40eb42.jpg)" width="300"/>
+<img src="(https://i.pinimg.com/1200x/de/ca/df/decadf4824f3a693404989e0cd40eb42.jpg)" width="300"/>
 
 
 # 👨‍💻 Lutfi Julpian  
